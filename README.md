@@ -19,4 +19,8 @@ gcc -framework Foundation {programe-name} -o {output directory}/filename
 To run a program
 
 * Change the directory to output directoru
-* Run by having `./filename` in the terminal 
+* Run by having `./filename` in the terminal
+
+### On Linux/Unix System
+
+Please refer [setting up environment](http://www.tutorialspoint.com/objective_c/objective_c_environment_setup.htm) page on [tutorialspoint.com](http://www.tutorialspoint.com/).
