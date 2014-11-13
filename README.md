@@ -5,7 +5,7 @@ My objective c practicals followed by [tutorialspoint.com](http://www.tutorialsp
 
 ## How to compile and run
 
-### Mac
+### On Mac
 
 * Go to terminal
 * Change the folder path to repository root/prog-{number}
@@ -15,3 +15,8 @@ My objective c practicals followed by [tutorialspoint.com](http://www.tutorialsp
 gcc -framework Foundation {programe-name} -o {output directory}/filename
 
 ```
+
+To run a program
+
+* Change the directory to output directoru
+* Run by having `./filename` in the terminal 
