@@ -18,7 +18,7 @@ gcc -framework Foundation {programe-name} -o {output directory}/filename
 
 To run a program
 
-* Change the directory to output directoru
+* Change the directory to output directory
 * Run by having `./filename` in the terminal
 
 ### On Linux/Unix System or Windows
