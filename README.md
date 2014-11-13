@@ -21,6 +21,6 @@ To run a program
 * Change the directory to output directoru
 * Run by having `./filename` in the terminal
 
-### On Linux/Unix System
+### On Linux/Unix System or Windows
 
 Please refer [setting up environment](http://www.tutorialspoint.com/objective_c/objective_c_environment_setup.htm) page on [tutorialspoint.com](http://www.tutorialspoint.com/).
