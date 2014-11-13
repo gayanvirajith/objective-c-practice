@@ -1,4 +1,4 @@
-objective-c-practice
+Objective C practice
 ====================
 
 My objective c practicals followed by [tutorialspoint.com](http://www.tutorialspoint.com/).
